@@ -1,0 +1,45 @@
+{
+    "partitions": [
+        {
+            "topic": "pre-pipeline-wse-feature-ork-9-sends-command-pp-long-task",
+            "partition": 0,
+            "offset": -1
+        },
+        {
+            "topic": "pre-pipeline-wse-feature-ork-9-sends-command-pp-long-task",
+            "partition": 1,
+            "offset": -1
+        },
+        {
+            "topic": "pre-pipeline-wse-feature-ork-9-sends-command-pp-long-task",
+            "partition": 2,
+            "offset": -1
+        },
+        {
+            "topic": "pre-pipeline-wse-feature-ork-9-sends-command-pp-long-task",
+            "partition": 3,
+            "offset": -1
+        },
+        {
+            "topic": "pre-pipeline-wse-feature-ork-9-sends-command-pp-long-task",
+            "partition": 4,
+            "offset": -1
+        },
+        {
+            "topic": "pre-pipeline-wse-feature-ork-9-sends-command-pp-long-task",
+            "partition": 5,
+            "offset": -1
+        },
+        {
+            "topic": "pre-pipeline-wse-feature-ork-9-sends-command-pp-long-task",
+            "partition": 6,
+            "offset": -1
+        },
+        {
+            "topic": "pre-pipeline-wse-feature-ork-9-sends-command-pp-long-task",
+            "partition": 7,
+            "offset": -1
+        }
+    ],
+    "version": 1
+}
